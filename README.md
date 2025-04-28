@@ -1,0 +1,1 @@
+Este repositório contém as primeiras explorações e análises de dados relacionadas aos cursos de Computação da Universidade Federal de Campina Grande (UFCG). O objetivo é realizar um estudo inicial sobre o perfil dos alunos, desempenho acadêmico, evasão e outros fatores relevantes.
